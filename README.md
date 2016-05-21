@@ -1,7 +1,8 @@
 # ServeurProxy
 Présentation du serveur proxy web
 
-Définition.
+<b>Définition</b>
+
 Pour commencer, il est important de préciser que le terme « proxy » peut être traduit par mandataire, procuration, intermédiaire
 
 Donc, un serveur proxy est un serveur qui servirait d’intermédiaire ou un serveur que l’on mandaterait pour faire quelque chose.
